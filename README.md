@@ -10,22 +10,6 @@ conda create -n fzsl python==3.9
  ```
 
 ## Data Preparation
-   ```
-    datasets/
-    └── anet/
-        ├── v1-2/
-        │   ├── train/
-        │   │   ├── xxxx.mp4
-        │   │   └── xxxx.mp4
-        │   └── val/
-        │       ├── xxxx.mp4
-        │       └── xxxx.mp4
-        ├── v1-3/
-        │   └── train_val/
-        │       ├── xxxx.mp4
-        │       └── xxxx.mp4
-        └── anet_benchmark_video_id.txt
-  ```
 
 ## Acknowledgement
 
