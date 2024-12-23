@@ -34,5 +34,6 @@ This work is built upon：
 + [FedReID](https://www.eecs.qmul.ac.uk/~sgg/papers/WuGong_AAAI2021_FedReID.pdf) by Guile Wu.
 + [SKA](https://arxiv.org/pdf/2110.11384) by Shitong Sun.
 + [CLIP](https://arxiv.org/abs/2103.00020) by Alec Radford.
+  
 Thanks for their awesome work!
 
