@@ -5,9 +5,9 @@
 ![FZSL Model](./images/model.png "Model Architecture")
 
 ## Installation
-、、、python
+ ```python
 conda create -n fzsl python==3.9
-、、、
+ ```
 
 ## Data Preparation
    ```
